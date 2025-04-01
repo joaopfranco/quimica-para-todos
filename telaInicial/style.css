@@ -46,3 +46,7 @@
     cursor: pointer; /* Muda o cursor ao passar o mouse */
     transition: 0.3s; /* Animação suave */
 }
+
+body{
+    background-color: #f6f0e8;
+}
